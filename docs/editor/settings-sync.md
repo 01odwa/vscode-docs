@@ -13,7 +13,7 @@ Settings Sync lets you share your Visual Studio Code configurations such as sett
 
 ## Turning on Settings Sync
 
-You can turn on Settings Sync using the **Turn On Settings Sync...** entry in the **Manage** gear menu at the bottom of the Activity Bar.
+You can turn on Settings Sync using the **[#6515](https://github.com/microsoft/vscode-docs/issues/6515)Turn On Settings Sync...** entry in the **Manage** gear menu at the bottom of the Activity Bar.
 
 ![Turn on Sync command](images/settings-sync/turn-on-sync.png)
 
